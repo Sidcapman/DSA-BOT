@@ -53,5 +53,5 @@ client.on("messageCreate", (message) => {
 });
 
 client.login(
-  "MTA2NDEzNDU2OTY1MTA3NzE5MA.G7HuIu.7OGJzzPUdz_9ppRGp2XdAGl0UMVvCd8WLJJBqw"
+  "Discord Token"
 );
