@@ -22,7 +22,7 @@ client.on("messageCreate", (message) => {
   if (message.content === "hello") {
     message.reply("hello");
   }
-   if (message.content === "exceldata") {
+   if (message.content === "getaProblem") {
      // read the Excel file
      //  const workbook = XLSX.readFile("pramodh.xlsx");
      //  console.log(workbook)
